@@ -1,3 +1,6 @@
+![Uploading image.png…]()
+
+
 # 💫 About Me:
 🔭 I’m currently working on Personal project<br><br>🌱 I’m currently working with NodeJs<br><br>❓ Ask me about anything related to MERN stack and related technologies<br><br>⚡ Fun fact: I love to fix broken code and people
 ## 🌐 Socials:
