@@ -1,4 +1,4 @@
-![mb](https://media.giphy.com/media/3bc9YL28QWi3pYzi1p/giphy.gif)
+
 
 
 # 💫 About Me:
